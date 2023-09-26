@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.item{
+	background-color:red;
+	margin:0px;
+	padding:60px;
+	box-sizeing:border-box;
+	text-align:left;
+}
+	
+}
