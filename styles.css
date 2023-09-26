@@ -6,11 +6,13 @@
 	flex-wrap:wrap;
 }
 .item{
-	background-color:red;
+	background-color:gray;
 	margin:0px;
 	padding:60px;
 	box-sizeing:border-box;
 	text-align:left;
+	width:100px;
+	height:100px;
 }
 	
 }
